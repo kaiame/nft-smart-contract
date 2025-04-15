@@ -26,3 +26,4 @@ contract MyNFT is ERC721, Ownable {
         _baseTokenURI = baseURI;
     }
 }
+кукфке
